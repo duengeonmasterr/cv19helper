@@ -35,6 +35,6 @@ To run the app in emulator
 | play store | https://play.google.com/store/apps/developer?id=VRGr8+developers |
 | Blog |https://techmasterr777.blogspot.in/ |
 
-<img src="screenshot/Screenshot_20200418-162037.jpg" width="200">
-
+<img src="screenshot/Screenshot_20200418-162037.jpg" width="300">
+<img src="screenshot/Screenshot_20200418-162043.jpg" width="300">
 
