@@ -36,5 +36,6 @@ To run the app in emulator
 | Blog |https://techmasterr777.blogspot.in/ |
 
 <img align="left" src="screenshot/Screenshot_20200418-162037.jpg" width="200">
+<img align="center" src="screenshot/Screenshot_20200418-162056.jpg" width="200">
 <img align="right" src="screenshot/Screenshot_20200418-162043.jpg" width="200">
 
