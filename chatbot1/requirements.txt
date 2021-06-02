@@ -29,6 +29,6 @@ SQLAlchemy==1.2.19
 srsly==1.0.2
 thinc==7.0.8
 tqdm==4.44.1
-urllib3==1.25.8
+urllib3==1.26.5
 wasabi==0.6.0
 Werkzeug==1.0.0
